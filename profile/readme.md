@@ -6,8 +6,4 @@ In addition to web development we also offer UI design, iOS design & development
 
 Find us elsewhere:
 
-[🌎](https://fifty52.com) Web\
-[📓](https://www.facebook.com/WeAreFifty52) Facebook\
-[📸](https://www.instagram.com/wearefifty52/) Instagram\
-[🏢](https://linkedin.com/company/wearefifty52/) LinkedIn\
-[💬](https://twitter.com/wearefifty52) Twitter
+[🌎](https://fifty52.com) Web | [📓](https://www.facebook.com/fifty52co) Facebook | [📸](https://www.instagram.com/fifty52co/) Instagram | [🏢](https://linkedin.com/company/fifty52/) LinkedIn | [💬](https://x.com/fifty52co) Twitter
